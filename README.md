@@ -76,11 +76,7 @@ This project implements a handwritten digit classifier using an Artificial Neura
 
 ## Repository Structure
 
-- docs/ : Project slides, reports, and screenshots
-- rtl/  : Hardware design files (not exposed here)
-- tb/   : Testbenches (not exposed here)
-- sim/  : Supporting simulation and hex data files
-- README.md : Project documentation
+
 
 ---
 
